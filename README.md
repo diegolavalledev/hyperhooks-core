@@ -21,7 +21,7 @@ To use `hyperhooks-core` just import `lib/hyperhooks-core.js` into your module. 
 Alternatively you can add it to your page via `<script>` tag. 
 
 ```html
-<script src="hyperhooks-core/lib/hyperhooks-core.js"></script>
+<script src="https://github.com/hyperhooks/hyperhooks-core/releases/download/1.0.0/hyperhooks-core.js"></script>
 ```
 
 # Build
